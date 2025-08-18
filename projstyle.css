@@ -1,0 +1,76 @@
+body{
+    
+    display: flex;
+    background-color:#501563;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    
+}
+
+
+img{
+    width: 300px;
+    height: auto;
+    margin: 20px auto 0 auto;
+}
+
+ul {
+
+    list-style-type: none;
+ 
+}
+
+ul li{
+
+    
+    font-size: 36px;
+   
+}
+
+ul li a{
+
+    text-decoration: none;
+    color:pink;
+
+}
+
+ul li a:hover{
+
+    color:black;
+}
+
+.mybanner{
+
+    font-size: 48px;
+
+}
+
+.resumebody{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: #f4f4f4;
+}
+
+.resume-container{
+
+    width: 80%;
+    height: 90vh;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+    border-radius: 8px
+    overflow: hidden;
+    background: white;
+}
+
+iframe{
+    width: 100%;
+    height: 100%;
+    border: none;
+}
+
+		  
